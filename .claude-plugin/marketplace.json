@@ -1,0 +1,15 @@
+{
+  "name": "bestbikesplit",
+  "description": "Best Bike Split plugins for Claude: race planning, ride analysis and workouts for cyclists and triathletes.",
+  "owner": {
+    "name": "Best Bike Split",
+    "url": "https://www.bestbikesplit.com"
+  },
+  "plugins": [
+    {
+      "name": "best-bike-split",
+      "source": "./",
+      "description": "Race-day pacing plans, ride analysis and structured workouts for cyclists and triathletes, from your Best Bike Split account."
+    }
+  ]
+}

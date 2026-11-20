@@ -1,0 +1,18 @@
+{
+  "name": "best-bike-split",
+  "displayName": "Best Bike Split",
+  "version": "1.0.0",
+  "description": "Race-day pacing plans, ride analysis and structured workouts for cyclists and triathletes, from your Best Bike Split account.",
+  "author": {
+    "name": "Best Bike Split",
+    "url": "https://www.bestbikesplit.com"
+  },
+  "homepage": "https://www.bestbikesplit.com/connect-best-bike-split-to-ai-apps",
+  "documentationUrl": "https://www.bestbikesplit.com/connect-best-bike-split-to-ai-apps",
+  "supportUrl": "https://support.bestbikesplit.com/",
+  "privacyPolicyUrl": "https://www.bestbikesplit.com/privacy-policy",
+  "termsOfServiceUrl": "https://www.bestbikesplit.com/terms-of-use",
+  "license": "MIT",
+  "icon": "./icon.png",
+  "keywords": ["cycling", "triathlon", "race planning", "pacing", "power", "training", "coaching"]
+}
